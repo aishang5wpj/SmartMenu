@@ -1,10 +1,12 @@
-#SmartMenu
+SmartMenu
+-
 
 一款可以根据按钮位置来自动调整自己位置的菜单悬浮窗。
 
-![](https://github.com/aishang5wpj/smartmenu/raw/master/images/screenshot/smart_menu.gif)
+![](https://raw.githubusercontent.com/aishang5wpj/SmartMenu/master/screenshot/smart_menu.gif)
 
-#使用方式
+使用方式
+-
 
 ```
 
